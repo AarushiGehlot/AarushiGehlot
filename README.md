@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Aarushi Gehlot! 👋
+Computer Science Engineering Student @ GGSIPU
 
-<!--
-**AarushiGehlot/AarushiGehlot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🏆 Highlights
+- **ThoughtWorks Hackathon Finalist** (HealthLens Project)
 
-Here are some ideas to get you started:
+## 🚀 Featured Projects
+- **HealthLens:** Interactive, responsive healthcare frontend prototype built with React and Tailwind CSS.
+- **AI Study Pal:** Web-based educational assistant utilizing Python, Flask, and OpenAI API.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technical Skills
+- **Languages:** Java, Python, C/C++, JavaScript, HTML/CSS
+- **Frameworks & Libraries:** React, Flask, Tailwind CSS, pandas, NumPy, Matplotlib
